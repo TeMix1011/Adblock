@@ -9,7 +9,7 @@ $urls = array(
 $ch = curl_init();
 
 // File tujuan untuk hasil penggabungan
-$outputFile = 'gabungan.txt';
+$outputFile = 'gabungan2.txt';
 
 // Buka file untuk penulisan
 $outputHandle = fopen($outputFile, 'w');
